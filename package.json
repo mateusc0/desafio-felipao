@@ -1,0 +1,17 @@
+{
+  "name": "desafio-felipao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test-main" : "node src/index",
+    "test": "jest"
+  },
+  "author": "Mateus de Castro Pimentel",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.5",
+    "jest": "^29.7.0"
+  }
+}
