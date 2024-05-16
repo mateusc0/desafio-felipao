@@ -2,8 +2,8 @@
 
 > [!IMPORTANT]
 > __Comandos de teste:__
-> ```  npm run test-main ``` __(Para realizar o teste simples de saída no console conforme descrito no desafio a baixo)__;
-> ```  npm run test ``` __(Para realizar os testes unitários de boundaries dos valores e de mensagem utilizando Jest)__;
+> ``` npm run test-main ``` __(Para realizar o teste simples de saída no console conforme descrito no desafio a baixo)__;
+> ``` npm run test ``` __(Para realizar os testes unitários de boundaries dos valores e de mensagem utilizando Jest)__;
 
 
 ## 1️⃣ Desafio Classificador de nível de Herói
@@ -17,7 +17,7 @@
 
 ## Objetivo
 
-# Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+### Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
 Se XP for menor do que 1.000 = Ferro
 Se XP for entre 1.001 e 2.000 = Bronze
