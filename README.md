@@ -1,4 +1,5 @@
-# Desafio Classificador de Nível de Herói da trilha ( Santander 2024 - Criando Jogos com Godot )
+# Desafio Classificador de Nível de Herói, da trilha Santander 2024 - Criando Jogos com Godot
+
 
 > [!NOTE]
 > Projeto foi inicializado a partir de um Fork do template disponibilizado em __[desafio-felipão](https://github.com/felipe-dio/desafio-felipao)__, pelo __[Felipe Aguiar](https://github.com/felipeAguiarCode)__ :sunglasses:.
